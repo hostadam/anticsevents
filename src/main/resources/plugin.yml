@@ -1,0 +1,5 @@
+name: AnticsEvents
+author: Hostadam
+version: 0.1-DEV
+main: me.hostadam.events.EventPlugin
+api-version: 1.17
